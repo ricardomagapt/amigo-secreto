@@ -26,7 +26,8 @@ Criar uma aplicação interativa e acessível para simular um sorteio de amigo s
 
 ## 🖼️ Demonstração
 
-![Screenshot do projeto](./assets/amigo-secreto.png)
+<img width="552" height="569" alt="image" src="https://github.com/user-attachments/assets/87656cdf-272b-4da4-8fb5-d3791fe2d94c" />
+
 
 ---
 
